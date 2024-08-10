@@ -1,2 +1,2 @@
 # While Loop
-Introduction To Loop/Learning/Logic Building/Basic-Javascript/Git-Coding-Rank.
+Introduction To While Loop/Learning/Logic Building/Basic-Javascript/Git-Coding-Rank.
